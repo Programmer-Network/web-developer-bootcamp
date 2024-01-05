@@ -6,12 +6,12 @@ Welcome, future developers! This repository contains code and examples used in t
 
 - **CSS**
   - [Introduction](./CSS/01.introduction.md)
-  - [Selectors](./CSS/css-selectors.md)
-  - [Box Model](./CSS/css-box-model.md)
+  - [Selectors](./CSS/02.css-selectors.md)
+  - [Box Model](./CSS/03.css-box-model.md)
   - [Document Flow](./CSS/04.document-flow.md)
-  - [Display property](./CSS/css-display-property.md)
-  - [Position property](./CSS/css-position-property.md)
-  - [Units](./CSS/css-units.md)
+  - [Display property](./CSS/05.css-display-property.md)
+  - [Position property](./CSS/06.css-position-property.md)
+  - [Units](./CSS/07.css-units.md)
   - [Viewport](./CSS/09.viewport.md)
   - [Exercises](./CSS/08.exercises.md)
 
