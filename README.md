@@ -1,6 +1,6 @@
 # Web Developer Bootcamp
 
-Welcome, future developers. This repository contains code and examples used in [Web Developer Bootcamp](https://youtube.com/playlist?list=PLMIfYCA9o12rEg8pczVMq-Y6tRlZGhsvG&si=RF2uQ_y0Mfow7xj9) course.
+Welcome, future developers! This repository contains code and examples used in the [Web Developer Bootcamp](https://youtube.com/playlist?list=PLMIfYCA9o12rEg8pczVMq-Y6tRlZGhsvG&si=RF2uQ_y0Mfow7xj9) course. This document will be updated with new lessons and concepts as I record new videos. In simple terms, this is a living document that will evolve over time.
 
 # Table of Contents
 
