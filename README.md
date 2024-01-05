@@ -10,10 +10,11 @@ Welcome, future developers. This repository contains code and examples used in [
   - [Introduction](./02.CSS/01.introduction.md)
   - [Selectors](./02.CSS/02.css-selectors.md)
   - [Box Model](./02.CSS/03.css-box-model.md)
-  - [Display property](./02.CSS/04.css-display-property.md)
-  - [Position property](./02.CSS/05.css-position-property.md)
-  - [Units](./02.CSS/06.css-units.md)
-  - [Viewport](./02.CSS/07.viewport.md)
+  - [Document Flow](./02.CSS/04.document-flow.md)
+  - [Display property](./02.CSS/05.css-display-property.md)
+  - [Position property](./02.CSS/06.css-position-property.md)
+  - [Units](./02.CSS/07.css-units.md)
+  - [Viewport](./02.CSS/09.viewport.md)
   - [Exercises](./02.CSS/08.exercises.md)
 
 ## Resources
